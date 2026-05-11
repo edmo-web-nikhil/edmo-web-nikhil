@@ -1,47 +1,38 @@
-# Hi there, I'm Nikhil Anand 👋
+<h1 align="center">Hi, I'm Nikhil Anand 👋</h1>
+<p align="center">
+  Junior Software Engineer • JavaScript/TypeScript Developer • Building scalable web apps
+</p>
 
-## Junior Software Engineering at EDMO
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhil-anand-0792981b2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nikhilanandgaya01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="http://portfolio-git-portfolioreact-nikhil-anands-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
 
-I'm a passionate JavaScript developer with experience contributing to multiple codebases within my organization. Currently focusing on expanding my JS application development skills while delivering value through my internship work.
+---
 
-### 🚀 About Me
+## About Me
 
-- 💼 Software Engineering Intern at **iSchoolConnect**
-- 💻 JavaScript enthusiast with hands-on experience in modern frameworks
-- 🌱 Currently learning advanced JS application architecture and best practices
-- 🔭 Working on various organizational codebases and personal projects
-- 🤝 Open to collaborate on interesting JavaScript projects
+- 💼 Software Engineering Intern at **iSchoolConnect**.
+- 🔭 Working on real-world JavaScript applications and internal products.
+- 🌱 Learning system design, backend scalability, and clean architecture.
+- 🤝 Open to collaborating on impactful web projects.
 
-### 🛠️ Tech Stack
+## Tech Stack
 
-```javascript
-const myTechStack = {
-  languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Python'],
-  frameworks: ['React', 'Node.js', 'Express', 'NestJS', 'NextJS'],
-  tools: ['Git', 'GitHub', 'VS Code', 'Docker', 'MongoDB'],
-  practices: ['Clean Code', 'Agile Methodology', 'SOLID Principle'],
-  learning: ['Kafka', 'node scaling', 'Prisma ODM']
-};
-```
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS
+- **Frameworks:** React, Next.js, Node.js, Express, NestJS
+- **Tools:** Git, GitHub, Docker, MongoDB, VS Code
+- **Practices:** Clean Code, SOLID, Agile
 
-### 💼 Experience
+## GitHub Snapshot
 
-#### iSchoolConnect
-- Contributed to multiple codebases within the organization
-- Maintained JavaScript applications
-- Collaborated with cross-functional teams to deliver solutions
-- Implemented best practices and coding standards
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=niksanand-isc&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Nikhil's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niksanand-isc&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=niksanand-isc&show_icons=true&theme=radical)
-
-### 📫 Connect With Me
-
-- LinkedIn: [Nikhil Anand](https://www.linkedin.com/in/nikhil-anand-0792981b2/)
-- Email: nikhilanandgaya01@gmail.com
-- Portfolio: [Portfolio Website](http://portfolio-git-portfolioreact-nikhil-anands-projects.vercel.app/)
-
+> If the stats card is rate-limited, it will recover automatically after cache refresh.
 
 ---
 
