@@ -29,7 +29,7 @@
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=edmo-web-nikhil&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Nikhil's GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niksanand-isc&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmo-web-nikhil&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 > If the stats card is rate-limited, it will recover automatically after cache refresh.
